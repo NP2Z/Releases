@@ -1,2 +1,2 @@
-# Some my own releases that are ready yo use
+# Some my own releases that are ready to use
 
